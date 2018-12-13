@@ -7,7 +7,7 @@
     <micronaut.version>1.0.1</micronaut.version>
     <jdk.version>11</jdk.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <exec.mainClass>pet.clinic.modular.micronaut.Application</exec.mainClass>
+    <exec.mainClass>com.github.rskupnik.petclinicmodular.Application</exec.mainClass>
   </properties>
   <repositories>
     <repository>

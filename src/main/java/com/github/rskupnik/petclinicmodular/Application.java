@@ -1,4 +1,4 @@
-package pet.clinic.modular.micronaut;
+package com.github.rskupnik.petclinicmodular;
 
 import io.micronaut.runtime.Micronaut;
 
